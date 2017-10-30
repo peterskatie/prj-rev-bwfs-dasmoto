@@ -1,0 +1,35 @@
+.desmoto{
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(pattern.jpeg);
+}
+
+.brushes{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.price{
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.paint{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+.frames{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
